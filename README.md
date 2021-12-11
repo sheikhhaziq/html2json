@@ -7,8 +7,8 @@
 include htmlparser.js & html2json.js scripts:
 
 ```html
-<script src="htmlparser.js"></script>
-<script src="html2json.js"></script>
+<script src="src/htmlparser.js"></script>
+<script src="src/html2json.js"></script>
 ```
 
 
