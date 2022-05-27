@@ -16,8 +16,8 @@ include htmlparser.js & html2json.js scripts:
 ### API
 
 ```javascript
-json === html2json(document.body.innerHTML);
-html === json2html(json);
+json = html2json(document.body.innerHTML);
+html = json2html(json);
 
 console.assert(json === html);
 ```
